@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "versionCode": 20101,
-  "apkUrl": "https://github.com/octopus9camille/MiroirAudio-version/releases/download/v2.1.1/MiroirAudio-v2.1.1.apk",
-  "sha256": "13659f71164a1b7ee87d1f72f895d04b0966beddc723301a71d36fcd1b871f51",
-  "publishedAt": "2026-10-11T14:51:51Z"
+  "version": "2.1.2",
+  "versionCode": 20102,
+  "apkUrl": "https://github.com/octopus9camille/MiroirAudio-version/releases/download/v2.1.2/MiroirAudio-v2.1.2.apk",
+  "sha256": "eba16b9f50e6482b8742c67a35979921a9fcf35ae483eaee1a5fd2c9174a4ed6",
+  "publishedAt": "2026-10-12T06:39:19Z"
 }
