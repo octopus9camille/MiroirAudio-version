@@ -1,0 +1,35 @@
+{
+  "modelVersion": 1,
+  "name": "gemma-4-12b-it-Q4_K_M",
+  "license": "Apache-2.0",
+  "licenseUrl": "https://github.com/octopus9camille/MiroirAudio-version/releases/download/modele-synthese-v1/LICENSE.txt",
+  "sha256": "0a270ec9fe6b34f4a0d33992b6135117b484ebc4766ab76b51d4ae8c457e4c42",
+  "partsSize": 7121861856,
+  "parts": [
+    {
+      "fileName": "gemma-4-12b-it-Q4_K_M-00001-of-00004.gguf",
+      "url": "https://github.com/octopus9camille/MiroirAudio-version/releases/download/modele-synthese-v1/gemma-4-12b-it-Q4_K_M-00001-of-00004.gguf",
+      "size": 1812641632,
+      "sha256": "7a4c2d9d196fd4183a5a12dc934f20048fa729bdf2c5e187106c02b68e78549a"
+    },
+    {
+      "fileName": "gemma-4-12b-it-Q4_K_M-00002-of-00004.gguf",
+      "url": "https://github.com/octopus9camille/MiroirAudio-version/releases/download/modele-synthese-v1/gemma-4-12b-it-Q4_K_M-00002-of-00004.gguf",
+      "size": 1788424928,
+      "sha256": "47d3ed9fae59885c39c567c3bfb43ade14241831d7d4a1bb963db2a1d4177d99"
+    },
+    {
+      "fileName": "gemma-4-12b-it-Q4_K_M-00003-of-00004.gguf",
+      "url": "https://github.com/octopus9camille/MiroirAudio-version/releases/download/modele-synthese-v1/gemma-4-12b-it-Q4_K_M-00003-of-00004.gguf",
+      "size": 1784968256,
+      "sha256": "eff6e385bef48cab2ae3fe6117e6363341c83bf3849e01dc868ca4b2c12e90d5"
+    },
+    {
+      "fileName": "gemma-4-12b-it-Q4_K_M-00004-of-00004.gguf",
+      "url": "https://github.com/octopus9camille/MiroirAudio-version/releases/download/modele-synthese-v1/gemma-4-12b-it-Q4_K_M-00004-of-00004.gguf",
+      "size": 1735827040,
+      "sha256": "fdb769b5dba1d1804a070916041a5fcd75bcd0bb7f5b95af2eb243ad26eef650"
+    }
+  ],
+  "publishedAt": "2026-10-12T07:57:24Z"
+}
